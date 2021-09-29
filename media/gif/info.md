@@ -1,1 +1,1 @@
-Takes gif data for pl
+Takes gif data for plugins.
