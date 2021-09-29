@@ -12,7 +12,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="CAMILA MWOL" src="https://img.shields.io/badge/LoveYou0011-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="title" src="https://img.shields.io/badge/LoveYou0011-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/LoveYou0011"><img title="Author" src="https://img.shields.io/badge/Author-LoveYou0011/QueenLydia?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -99,23 +99,12 @@ $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node qr.js
 ```
-      
-```js
-SETUP
-$ git clone https://github.com/LoveYou0011/QueenLydia
-$ cd QueenLydia
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-   ```        
-
+     
 
 ## Developer
   <div align="center">
-    
-  [![LoveYou0011](https://github.com/LoveYou0011.png?size=100)](https://github.com/LoveYou0011)  
+    <a href="https://github.com/LoveYou0011" target="blank"><img align="center" src="https://i.imgur.com/MjGg1S5.jpeg" alt="kyrie.baran" height="200" width="180" /></a>
+  
 
  [LoveYou0011](https://github.com/LoveYou0011) 
          
