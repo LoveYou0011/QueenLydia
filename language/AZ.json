@@ -78,7 +78,7 @@
             "RESTART_DESC": "WhatsAsena-nı yenidən başladın",
             "RESTART_MSG": "```yenidən başladır ...```",
             "SHUTDOWN_DESC": "WhatsAsena-nı söndürün",
-            "SHUTDOWN_MSG": "```söndürmək ⛔```",
+            "SHUTDOWN_MSG": "```söndürmək 😴```",
             "DYNO_DESC": "Heroku dyno istifadəsini yoxlayın",
             "DYNO_TOTAL": "```Ümumi kvota```",
             "DYNO_USED": "```Kota istifadə edildi```",
