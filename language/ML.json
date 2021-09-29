@@ -75,7 +75,7 @@
             "RESTART_DESC": "\nRestart pinkymwol\n",
             "RESTART_MSG": "```punararambikkunu...```",
             "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
-            "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
+            "SHUTDOWN_MSG": "```adach poottunnu 😴```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
             "DYNO_USED": "```Quota upayogichath```",
