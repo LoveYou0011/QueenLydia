@@ -76,7 +76,9 @@ Click QueenLydia logo to Join Support Group
  
  <div align="left">
   
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+  If Repl.it not working Try Termux for Qr scanning.
+Just paste this Link Below in Termux
+
 ```bash <(curl -L https://t.ly/tHxh)```
             
 ##
