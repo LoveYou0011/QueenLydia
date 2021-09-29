@@ -15,7 +15,7 @@
 <a href="#"><img title="title" src="https://img.shields.io/badge/LoveYou0011-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/LoveYou0011"><img title="Author" src="https://img.shields.io/badge/Author-LoveYou0011/QueenLydia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917909139146"><img title="Contact Me" src="https://img.shields.io/badge/Contact Me-LoveYou0011/QueenLydia?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -27,11 +27,6 @@ Project created by <a href="https://github.com/LoveYou0011">LoveYou0011</a> to m
 </p>
 
 ----
-
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://wa.me/917909139146" target="blank"><img align="center" src="https://img.shields.io/badge/CLICK HERE TO CONTACT LoveYou0011 VIA WHATSAPP-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" alt="kyrie.baran" height="40" width="370" /></a>
-</p>
 
 
 </p>
