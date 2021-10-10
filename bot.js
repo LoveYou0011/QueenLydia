@@ -168,7 +168,29 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
             }
             return;
         }
-
+    }, 50000);
+    var biography_var = ''
+    await heroku.get(baseURI + '/config-vars').then(async (vars) => {
+        biography_var = vars.AUTO_BİO
+    });
+    setInterval(async () => { 
+        if (biography_var == 'true') {
+            if (conn.user.jid.startsWith('90')) { // Turkey
+                var ov_time = new Date().toLocaleString('LK', { timeZone: 'Europe/Istanbul' }).split(' ')[1]
+                const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n🐺 WhatsAsena'
+                await conn.setStatus(biography)
+            }
+            else {
+                const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
+                var ov_time = new Date().toLocaleString('EN', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n    ᴢᴀʀᴀ᪥ᴍᴡᴏʟ'
+                await conn.setStatus(biography)
+            }
+        }
+    }, 7890);
         events.commands.map(
             async (command) =>  {
                 if (msg.message && msg.message.imageMessage && msg.message.imageMessage.caption) {
