@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Ameer Suhail*
 *Creator number : wa.me/917909139146?text=Hi%20MonkSer%20😁.%20*
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
+
 *Githublink (Setup)  :    https://github.com/LoveYou0011/QueenLydia*
 *Audio commads :   https://github.com/LoveYou0011/QueenLydia/tree/master/uploads*
 *Sticker commads : https://github.com/LoveYou0011/QueenLydia/tree/master/uploads*
