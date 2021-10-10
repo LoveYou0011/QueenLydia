@@ -179,14 +179,14 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                 var ov_time = new Date().toLocaleString('LK', { timeZone: 'Europe/Istanbul' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n🐺 WhatsAsena'
+                const biography = '🗓️ ' + utch + '\n📱 ' + ov_time + '\n\n� Lʏᴅɪᴀ😌Mᴡᴏʟ 💝'
                 await conn.setStatus(biography)
             }
             else {
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('EN', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n    ᴢᴀʀᴀ᪥ᴍᴡᴏʟ'
+                const biography = '🗓️ ' + utch + '\n📱 ' + ov_time +'\n\n    Lʏᴅɪᴀ😌Mᴡᴏʟ 💝'
                 await conn.setStatus(biography)
             }
         }
